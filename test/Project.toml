@@ -11,4 +11,4 @@ UUIDs = "cf7118a7-6976-5b1a-9a39-7adc72f591a4"
 EasyCurl = "5dc68c43-2cae-45c1-9c9f-30d6e2b9e002"
 
 [compat]
-Serde = "3.7.2"
+Serde = "3.7.0"
